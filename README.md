@@ -14,10 +14,8 @@ api01 (tarea backend)
 
 **Nota*
 
-- la tabla se autogenera con : 
-
-
 ```
-# properties
- spring.jpa.hibernate.ddl-auto=update
+la tabla se autogenera con : 
+
+spring.jpa.hibernate.ddl-auto=update (properties)
 ```
